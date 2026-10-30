@@ -1,5 +1,5 @@
 # DHCP Configuration and VLAN Address Assignment
-
+![Network Topology](<docs/Topology.png>)
 ## English Documentation
 
 ### Overview
